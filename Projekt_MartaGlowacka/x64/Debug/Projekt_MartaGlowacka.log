@@ -1,0 +1,12 @@
+﻿  Structure.cpp
+  Menu.cpp
+c:\users\martella\documents\struktury_danych\projekt_martaglowacka\projekt_martaglowacka\menu.cpp(228): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\martella\documents\struktury_danych\projekt_martaglowacka\projekt_martaglowacka\menu.cpp(301): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main.cpp
+c:\users\martella\documents\struktury_danych\projekt_martaglowacka\projekt_martaglowacka\main.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Controller.cpp
+  Array.cpp
+  Generating Code...
+c:\users\martella\documents\struktury_danych\projekt_martaglowacka\projekt_martaglowacka\array.cpp(243): warning C4715: 'Array::push_selected': not all control paths return a value
+  Projekt_MartaGlowacka.vcxproj -> C:\Users\Martella\Documents\Struktury_danych\Projekt_MartaGlowacka\x64\Debug\Projekt_MartaGlowacka.exe
+  Projekt_MartaGlowacka.vcxproj -> C:\Users\Martella\Documents\Struktury_danych\Projekt_MartaGlowacka\x64\Debug\Projekt_MartaGlowacka.pdb (Full PDB)
